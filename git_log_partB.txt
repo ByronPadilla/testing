@@ -1,0 +1,101 @@
+commit e05c5fdc2c40746331d7ec69fb3eb8fa74a6c3ac
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:34:40 2015 -0700
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..8cfa249
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2018 Lead Project Manager
+\ No newline at end of file
+
+commit abf048b4f9b6b01df9ed2d4341096a0eff79d70f
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:29:08 2015 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 802b74b..6358da3 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Byron Padilla Computer Science Chipotle Mad Max: Fury Road
+\ No newline at end of file
++Byron Padilla Computer Science Chipotle Mad Max: Fury Road
++Black
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 8cfa249..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2018 Lead Project Manager
+\ No newline at end of file
+
+commit e6c2966bfd12684aae0b7b205fd2d33acbfe2bc8
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:22:59 2015 -0700
+
+    Adding new file with expected graduation year and first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..8cfa249
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2018 Lead Project Manager
+\ No newline at end of file
+
+commit 93469ddadedbdb24f418ae4b121a89456d51dc87
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:09:29 2015 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index a7fc375..802b74b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Byron Padilla Computer Science
+\ No newline at end of file
++Byron Padilla Computer Science Chipotle Mad Max: Fury Road
+\ No newline at end of file
+
+commit 4fb590a5626a760f3e14baf51e20f8850b7faf19
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:07:11 2015 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index c0f8161..a7fc375 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Byron Padilla #11784303
+\ No newline at end of file
++Byron Padilla Computer Science
+\ No newline at end of file
+
+commit fb9b4855675afc5904b42994f248866dbf5e29f0
+Author: ByronPadilla <bbpadill@uci.edu>
+Date:   Sun May 17 23:00:32 2015 -0700
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..c0f8161
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Byron Padilla #11784303
+\ No newline at end of file
